@@ -4,3 +4,4 @@ risky: true
 
 enabled:
   - php_unit_strict
+.gitignore       export-ignore
